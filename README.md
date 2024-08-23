@@ -1,5 +1,6 @@
 # Deployment link : 
-quizz-react-app-theta.vercel.app
+
+vercel app link : https://quizz-react-app-theta.vercel.app/
 
 # Getting Started with Create React App
 
